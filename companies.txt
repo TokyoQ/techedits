@@ -1,2 +1,5 @@
+* Atlassian
 * Google
+* Microsoft
+* Twitter
 * YouTube
