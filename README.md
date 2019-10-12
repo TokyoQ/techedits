@@ -29,5 +29,6 @@ The ASN used to discover IP ranges are listed in [ranges.yaml](ranges.yaml) as c
 * Atlassian
 * Google
 * Microsoft
+* Netflix
 * Twitter
 * YouTube
