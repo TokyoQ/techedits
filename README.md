@@ -26,6 +26,7 @@ The ASN used to discover IP ranges are listed in [ranges.yaml](ranges.yaml) as c
 
 ## List of Companies
 
+* Amazon
 * Atlassian
 * Google
 * Microsoft

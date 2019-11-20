@@ -1,3 +1,4 @@
+* Amazon
 * Atlassian
 * Google
 * Microsoft
