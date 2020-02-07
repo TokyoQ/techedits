@@ -1,6 +1,6 @@
 # techedits
 
-This little bot will watch Wikipedia for edits from an IP address from one of the world's largest tech companies and will [tweet](https://twitter.com/techedits) when it notices one.
+This little bot will watch Wikipedia for edits from an IP address from one of the world's largest tech companies and will [tweet](https://twitter.com/tech_edits) when it notices one.
 
 You can find the list of companies under watch listed below.
 
